@@ -15,7 +15,6 @@ int shock = 10000;  //source senVal
 int power = 0;
 int curPow = 0;  //store score
 int maxPow = 0;  //max score
-int lastPow = 0;
 int res = 10; //0~9, 10
 
 //functions
